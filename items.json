@@ -1,0 +1,118 @@
+{
+    "core_gaming_systems": [
+        "gaming laptop",
+        "gaming desktop",
+        "mini gaming pc",
+        "prebuilt gaming pc",
+        "custom gaming pc"
+    ],
+    "gaming_monitors": [
+        "1080p monitor",
+        "2k gaming monitor",
+        "4k gaming monitor",
+        "ultrawide monitor",
+        "curved gaming monitor",
+        "oled gaming monitor",
+        "144hz monitor",
+        "165hz monitor",
+        "240hz monitor",
+        "360hz monitor",
+        "high refresh rate monitor"
+    ],
+    "graphics_cards": [
+        "graphics card",
+        "nvidia rtx",
+        "amd radeon",
+        "gpu water block",
+        "gpu riser cable"
+    ],
+    "processors": [
+        "gaming cpu",
+        "intel i9",
+        "amd ryzen 9",
+        "cpu overclocking kit"
+    ],
+  "memory_storage": [
+    "high performance ram",
+    "ddr5 ram",
+    "ddr4 ram",
+    "ecc ram",
+    "rgb ram",
+    "gaming ram",
+    "low latency ram",
+    "overclocked ram",
+    "ram heatsink",
+    "dual channel ram",
+    "quad channel ram",
+    "nvme ssd",
+    "sata ssd",
+    "gaming external ssd",
+    "m.2 heatsink",
+    "external hard drive",
+    "portable ssd",
+    "ssd enclosure",
+    "storage expansion"
+  ],
+    "cooling_solutions": [
+        "pc air cooler",
+        "pc dual tower air cooler",
+        "pc liquid cooler",
+        "pc aio cooler",
+        "pc custom water cooling kit",
+        "pc case fan",
+        "pc rgb fan",
+        "pc fan controller",
+        "pc thermal paste"
+    ],
+    "motherboard_psu_case": [
+        "gaming motherboard",
+        "atx motherboard",
+        "itx motherboard",
+        "b650 motherboard",
+        "z790 motherboard",
+        "modular power supply",
+        "sfx power supply",
+        "atx case",
+        "mid tower case",
+        "itx case",
+        "open frame case"
+    ],
+    "peripherals": [
+        "mechanical keyboard",
+        "hot swappable keyboard",
+        "60% keyboard",
+        "rgb keyboard",
+        "gaming mouse",
+        "lightweight mouse",
+        "wireless gaming mouse",
+        "mouse bungee",
+        "mousepad xxl",
+        "rgb mousepad",
+        "hard surface mousepad"
+    ],
+    "audio_streaming": [
+        "gaming headset",
+        "wireless headset",
+        "usb microphone",
+        "xlr microphone",
+        "audio interface",
+        "webcam for streaming",
+        "dslr capture card",
+        "streaming capture card",
+        "stream deck"
+    ],
+    "furniture_accessories": [
+        "gaming chair",
+        "ergonomic gaming chair",
+        "monitor arm",
+        "monitor stand",
+        "controller for pc",
+        "usb hub for gaming",
+        "gaming desk",
+        "adjustable desk",
+        "headphone stand",
+        "cable management kit",
+        "cooling pad for gaming laptop",
+        "under desk pc mount"
+    ]
+}
