@@ -96,3 +96,6 @@ __pycache__/
 *$py.class
 
 models/
+docker-compose.yml
+pa_api/
+password.txt
